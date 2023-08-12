@@ -95,7 +95,7 @@ while running:
 
     print(len(rentList))
     # print(f"mx = {mx}, my = {my}")
-    print(pygame.mouse.get_pressed(3)[0])
+    # print(pygame.mouse.get_pressed(3)[0])
     # flip() the display to put your work on screen
     pygame.display.flip()
 
